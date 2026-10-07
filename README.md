@@ -71,3 +71,6 @@ python -m pytest
 ### License
 
 MIT
+
+## Contribution
+Added a contribution note as part of the feature branch.
